@@ -1,0 +1,13 @@
+# Local environment variables containing your private API keys
+.env
+
+# Python virtual environment folder (prevents zipping heavy dependency binaries)
+venv/
+
+# Python compiler runtime cache directories
+__pycache__/
+*.pyc
+
+# Operating system metadata files
+Thumbs.db
+.DS_Store

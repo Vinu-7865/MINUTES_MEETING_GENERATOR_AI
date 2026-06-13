@@ -1,0 +1,35 @@
+Project: Alpha Launch Coordination Sync
+Date: June 15, 2026
+Participants: Sarah (Project Manager), David (Lead Developer), Priya (UI/UX Designer), Marcus (Marketing Director)
+
+[00:01] Sarah: Alright everyone, let's get this sync started. We are exactly two weeks away from our Alpha product launch, and we need to lock down our final deployment roadmap today. David, let's start with you. Is the core database migration finished?
+
+[00:02] David: Mostly. We hit a small snag with the user authentication tables, but I managed to patch the schema mapping yesterday. The migration script is 100% written. I just need to run the final test deployment on staging. 
+
+[00:03] Sarah: Great. When will that staging test be officially done? We can't let this drag.
+
+[00:03] David: I will have the final validation report on staging completed by this Friday, June 19th. No later than that. 
+
+[00:04] Priya: Hey David, quick question on that—does that validation include the new dark-mode profile layouts? Because I noticed the CSS properties weren't wrapping properly on mobile screens during my audit.
+
+[00:04] David: Oh, good catch, Priya. No, I haven't merged your latest UI branch yet. 
+
+[00:05] Sarah: Okay, let's turn that into an official action item. Priya, can you jump on a quick call with David right after this sync to hand off those responsive design fixes? 
+
+[00:05] Priya: Yeah, absolutely. I can sync with him today. Also, on my side, I am finalizing the interactive prototype for the marketing team. Marcus needs the design assets for the social media campaign, right?
+
+[00:06] Marcus: Yes, please! I'm completely blocked on creating the promotional video until I get those high-fidelity screenshots of the main dashboard from you. I need to send the final ad copies to our media partners soon.
+
+[00:06] Sarah: Marcus, what is your hard deadline for getting those ad copies submitted?
+
+[00:07] Marcus: The absolute absolute deadline for the media agency is next Wednesday, June 24th. But I need at least two days to review the copy with our legal team first. So, Priya, if you can deliver those dashboard screenshots to me by Monday, June 22nd, that would be perfect.
+
+[00:07] Priya: Monday works for me. I'll drop them directly into our shared Google Drive folder before noon.
+
+[00:08] Marcus: Awesome. By the way, did anyone catch the football game last night? That final goal in extra time was absolute madness.
+
+[00:08] David: Unbelievable match! I honestly thought they were going to lose in the first half.
+
+[00:08] Sarah: Haha, it was a great game, guys, but let's reel it back in so we can wrap this up on time. To recap our action items: David will complete the staging migration validation by June 19th. Priya is handing off the CSS responsive layout fixes to David today and will deliver the marketing screenshots to Marcus by June 22nd. Marcus will then submit the finalized campaign copies to the media agency by June 24th. 
+
+[00:09] Sarah: Next sync is scheduled for next Monday. Thanks, team! Let's crush this launch.
